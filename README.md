@@ -43,10 +43,6 @@ The project includes a series of **30 SQL questions**, categorized as basic, int
 4. Calculate the percentage contribution of each company to the global production of 'Nickel' in 2020.
 5. List the commodities mined by companies operating in more than 3 countries and producing over 100,000 tons annually.
 
-## How to Use:
-1. Clone the repository: `git clone [GitHub link]`
-2. Load the datasets into your SQL database.
-3. Run the queries provided to explore the data.
 
 ## Conclusion:
 This project allows you to practice SQL skills in a meaningful context while uncovering insights about the global mining industry. It's an excellent resource for anyone looking to develop a deeper understanding of SQL queries and data analysis.
